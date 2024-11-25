@@ -1,0 +1,13 @@
+.gambar img {
+  width: 20%;
+  position: absolute;
+  bottom: 1rem;
+  left: 55rem;
+
+  border-radius: 2rem;
+
+  -webkit-border-radius: 2rem;
+  -moz-border-radius: 2rem;
+  -ms-border-radius: 2rem;
+  -o-border-radius: 2rem;
+}
